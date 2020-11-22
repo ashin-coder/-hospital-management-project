@@ -4,6 +4,7 @@
  #include <malloc.h>
  #include <string.h>
  #include <ctype.h>
+ #include<medicalrecords.h>
  /*----------------------------------------------------------------------------*/
  /* Define Functions*/
  void clearInput(void);
